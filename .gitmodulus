@@ -1,6 +1,0 @@
-[submodule "volksmarkt-backend"]
-	path = volksmarkt-backend
-	url = git@github.com:CS253-Stonks/volksmarkt-backend.git
-[submodule "volksmarkt-frontend"]
-	path = volksmarkt-frontend
-	url = git@github.com:CS253-Stonks/volksmarkt-frontend.git
